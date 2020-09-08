@@ -9,6 +9,8 @@ Cheat Sheet for custom ROM installations..
 
 ## Xiaomi
 - Unlock Tool: http://www.miui.com/unlock/index_en.html | https://en.miui.com/unlock/download_en.html
+- How to use unlock tool via windows pc: https://www.youtube.com/watch?v=XkSGK63bhKs
+
 
 
 #### Redmi Note 8
