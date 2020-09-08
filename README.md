@@ -8,6 +8,7 @@ Cheat Sheet for custom ROM installations..
 
 
 ## Xiaomi
+- Unlock Tool: http://www.miui.com/unlock/index_en.html
 
 
 #### Redmi Note 8
