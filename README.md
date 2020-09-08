@@ -5,6 +5,7 @@ Cheat Sheet for custom ROM installations..
 # Android
 - Platform Tools: https://developer.android.com/studio/releases/platform-tools
 - USB Driver: https://developer.android.com/studio/run/win-usb
+- 15 seconds ADB driver setup: https://forum.xda-developers.com/showthread.php?t=2588979
 
 
 ## Xiaomi
