@@ -4,7 +4,7 @@ Cheat Sheet for custom ROM installations..
 
 # Android
 - Platform Tools: https://developer.android.com/studio/releases/platform-tools
-
+- USB Driver: https://developer.android.com/studio/run/win-usb
 
 
 ## Xiaomi
